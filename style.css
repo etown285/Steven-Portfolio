@@ -5,3 +5,16 @@
     --red:#F20530;
     --navcolor: #b9c6ae;
   }
+
+  .jumbotron {
+    border-radius:10px;
+     background: url(../assets/urbanlandscape.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: 75% 75%;
+     color: white !important;
+     height: 340px;
+     margin:15px 30px 0px 30px;
+     box-shadow: 1px 1px 12px 3px black;
+   }
