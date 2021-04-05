@@ -14,7 +14,7 @@ Updated project portfolio with resume and new skills.
 
 ## Usage
 
-![Screenshot](assets\StevenPortfolio.png)
+![Screenshot]()
 
 ## Links
 

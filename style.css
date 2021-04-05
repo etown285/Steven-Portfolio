@@ -33,6 +33,15 @@
   color: white;
 }
 
+.btn:hover {
+  background-color: var(--darkblue);
+  color: white;
+}
+
+.icon:hover {
+  background-color: var(--darkblue);
+}
+
 @media only screen and (max-width: 375px){
   nav {
     font-size: 12px;
