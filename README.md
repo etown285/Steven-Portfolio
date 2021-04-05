@@ -14,7 +14,7 @@ Updated project portfolio with resume and new skills.
 
 ## Usage
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/Steven-Portfolio/blob/main/assets/StevenPaulPortfolio.png)
 
 ## Links
 
