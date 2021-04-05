@@ -23,3 +23,23 @@
     align-items: center;
     display: inline-block;
   }
+  
+
+.cardsection {
+  margin-top: 10px;
+}
+
+.btn-pink {
+  color: white;
+}
+
+@media only screen and (max-width: 375px){
+  nav {
+    font-size: 12px;
+  }
+
+  .card {
+    font-size: 12px;
+  }
+
+}
