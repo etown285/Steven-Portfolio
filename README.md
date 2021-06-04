@@ -7,8 +7,10 @@ Updated project portfolio with resume and new skills.
 
 * Updated professional information and structure within the HTML including links to my Resume, GitHub, LinkedIn, and Stack Overflow. 
 * Updated styling using bootstrap for a cleaner interface and updated graphics
+* Made the jumbotron fixed and created a shadow on the border. 
 * Highlighted four projects previous projects from the cohort. 
 * Created media queries for responsive design and mobile view for the font size on cards and nav bar. 
+* Updated Github portfolio with location and contact information. 
 
  
 
